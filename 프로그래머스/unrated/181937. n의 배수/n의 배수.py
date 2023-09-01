@@ -4,4 +4,3 @@ def solution(num, n):
         return 1
     else:
         return 0
-    return answer
